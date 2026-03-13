@@ -1,7 +1,7 @@
 INTRODUCING....NUKETO OS!
 
 
-A OS entirely coded by me (floeian) in a single batch file
+A OS entirely coded by me (floeian) in a single batch file which is then converted into a exe
 
 Download the previous versions here: https://archive.org/details/nuketo-os
 
