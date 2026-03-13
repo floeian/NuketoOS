@@ -9,6 +9,6 @@ Credits to sJema and other batch programmer for making the apps in the OS
 
 UPDATE 11.03.2026 (d/m/y): Im remaking and fixing Nuketo OS 0.2 AGAIN since my dumb brain didnt realise the mistakes there are in the code
 
-THE OS IS CAN NOT BE ISNTALLED FOR NOW
+THE OS IS CAN NOT BE INSTALLED FOR NOW
 
 Current Version: 0.2
