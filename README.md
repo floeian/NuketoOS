@@ -7,6 +7,7 @@ Download the previous versions here: https://archive.org/details/nuketo-os
 
 Credits to sJema and other batch programmer for making the apps in the OS
 
-UPDATE 08.07.2026 (d/m/y): I did it! Nuketo OS 0.3 is possible and will be releasing soon i finally fixed the stufff that were blocking me from making the os
+UPDATE 09.07.2026 (d/m/y): The >NuketoOS Website is now public! (which is the index.html)
+go to https://floeian.github.io/NuketoOS to acces it
 
 Current Version: 0.2
